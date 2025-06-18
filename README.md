@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Josh!
+# 👋 Wassup, World?!
 
 **Applied Computer Science Student**  
 Japan-born, California-raised. Full-stack dev in training — always building, always learning.
