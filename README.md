@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Josh!
+
+**Applied Computer Science Student**  
+Japan-born, California-raised. Full-stack dev in training — always building, always learning.
+
+## 🧑‍💻 Tech Stack
+- Python, Flask
+- JavaScript, React.js
+- SQL, MongoDB
+
+## 🌱 About Me
+I'm passionate about combining creativity and logic to build cool projects. My journey is all about exploring technology and pushing my limits.
+
+## 🥋 Hobbies & Interests
+- Goju Ryu Karate
+- Chill gaming sessions
 
 <!--
-**Joshkaki00/Joshkaki00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Joshkaki00/Joshkaki00** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
