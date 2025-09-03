@@ -1,6 +1,6 @@
 # 👋 Wassup, World?!
 
-**Applied Computer Science Student**  
+**Fullstack Software Developer**  
 Japan-born, California-raised. Full-stack dev in training — always building, always learning.
 
 ## 🧑‍💻 Tech Stack
