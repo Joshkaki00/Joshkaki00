@@ -15,6 +15,9 @@ I'm passionate about combining creativity and logic to build cool projects. My j
 - Goju Ryu Karate
 - Chill gaming sessions
 
+## Personal Portfolio Page
+https://joshua-kakinuki-portfolio.notion.site/Personal-Portfolio-Page-263e76e8bd0c801c99e5f8f619d93f6b
+
 <!--
 **Joshkaki00/Joshkaki00** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
