@@ -1,4 +1,4 @@
-# Hello, World!
+# Hello, People!
 
 **Fullstack Software Developer**  
 Japan-born, California-raised. Full-stack dev — always building, always learning.
