@@ -28,7 +28,7 @@ A JUCE framework virtual mixer application that attempts to route and change aud
 ## 🌱 Currently Learning
 - Advanced React patterns and state management
 - Cloud deployment with AWS
-- [Or whatever you're actually learning]
+- SQL and database management
 
 ## 🥋 Beyond Code
 **Goju Ryu Karate** - Discipline and continuous improvement mindset  
