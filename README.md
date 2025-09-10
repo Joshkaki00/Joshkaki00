@@ -36,7 +36,7 @@ A JUCE framework virtual mixer application that attempts to route and change aud
 
 ## 📫 Let's Connect
 - 💼 [Portfolio](https://joshua-kakinuki-portfolio.notion.site/Personal-Portfolio-Page-263e76e8bd0c801c99e5f8f619d93f6b)
-- 📧 [Email](mailto:joshkaki@outlook.com)
+- 📧 [Email](mailto:joshua.kakinuki@gmail.com)
 - 💼 [LinkedIn Profile](https://www.linkedin.com/in/joshuakakinuki/)
 
 ---
