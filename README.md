@@ -25,11 +25,6 @@ A JUCE framework virtual mixer application that attempts to route and change aud
 - Tech Stack: C++, JUCE, Audio Plugin API
 - Features: Virtual routing, plugin integration, audio processing
 
-## 🌱 Currently Learning
-- Advanced React patterns and state management
-- Cloud deployment with AWS
-- SQL and database management
-
 ## 🥋 Beyond Code
 **Goju Ryu Karate** - Discipline and continuous improvement mindset  
 **Gaming** - Problem-solving and strategic thinking
